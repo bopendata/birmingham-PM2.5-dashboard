@@ -20,7 +20,7 @@ var lyr_OpenStreetMap_0 = new ol.layer.Tile({
 
 var lyr_PM_2021_0 = new ol.layer.Image({
 
-    opacity: 1,
+    opacity: 0.5,
 
     title: 'PM2.5 2021',
 
@@ -53,7 +53,7 @@ var lyr_PM_2021_0 = new ol.layer.Image({
 
 var lyr_PM25_2022_1 = new ol.layer.Image({
 
-    opacity: 1,
+    opacity: 0.5,
 
     title: 'PM2.5 2022',
 
@@ -86,7 +86,7 @@ var lyr_PM25_2022_1 = new ol.layer.Image({
 
 var lyr_PM25_2023_2 = new ol.layer.Image({
 
-    opacity: 1,
+    opacity: 0.5,
 
     title: 'PM2.5 2023',
 
@@ -119,7 +119,7 @@ var lyr_PM25_2023_2 = new ol.layer.Image({
 
 var lyr_PM25_2024_3 = new ol.layer.Image({
 
-    opacity: 1,
+    opacity: 0.5,
 
     title: 'PM2.5 2024',
 
@@ -152,7 +152,7 @@ var lyr_PM25_2024_3 = new ol.layer.Image({
 
 var lyr_PM25_2025_4 = new ol.layer.Image({
 
-    opacity: 1,
+    opacity: 0.5,
 
     title: 'PM2.5 2025',
 
